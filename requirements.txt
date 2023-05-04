@@ -1,0 +1,3 @@
+ydb
+aiogram == 2.25.1
+six
